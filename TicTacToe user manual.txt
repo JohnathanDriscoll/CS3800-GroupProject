@@ -1,0 +1,16 @@
+Instructions to run.
+
+requirement install java JDK from https://www.oracle.com/java/technologies/downloads/
+
+1. Create folder TicTacToeGame
+2. Extract TicTacToeGame.zip to /TicTacToeGame
+
+Server Instructions:
+3. Server host should open terminal and navigate to /TicTacToeGame
+4. In command line enter java TicTacToeServer
+
+Client Instructions:
+5. Once server is running, open terminal and navigate to /TicTacToeGame
+6. In command line enter 'java TicTacToeClient <Enter Host IP here>' without the '' or <>.
+7. Once two players have connected using the client instructions, the game will begin.
+ 
